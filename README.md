@@ -4,7 +4,7 @@ Repositorio de actividades y entregables del curso Ethical Hacking – Hacker Wo
 Repositorio de actividades y entregables del curso Ethical Hacking – Hacker Women Council.
 
 ## Alumna
-Stephania Rivera Morales
+Stephania de Jesús Rivera Morales
 
 ## Curso
 Ethical Hacking - Hacker Women Council
